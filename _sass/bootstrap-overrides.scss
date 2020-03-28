@@ -1,0 +1,44 @@
+// Bootstrap overrides for this template
+.btn {
+  font-size: 14px;
+  font-weight: 800;
+  padding: 15px 25px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  border-radius: 0;
+  @include sans-serif-font;
+}
+
+.btn-primary {
+  background-color: $primary;
+  border-color: $primary;
+  &:hover,
+  &:focus,
+  &:active {
+    color: $white;
+    background-color: darken($primary, 7.5) !important;
+    border-color: darken($primary, 7.5) !important;
+  }
+}
+
+.btn-lg {
+  font-size: 16px;
+  padding: 25px 35px;
+}
+
+pre {
+  padding: 8px 12px;
+  background-color: #eef;
+  border: 1px solid #e8e8e8;
+  border-radius: 3px;
+}
+
+pre code {
+  font-size: 15px;
+}
+
+@media (min-width: 992px) {
+ .col-lg-8 {
+    max-width: 90%
+ }
+}

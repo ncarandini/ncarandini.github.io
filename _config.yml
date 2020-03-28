@@ -1,0 +1,25 @@
+title:              TPCWare
+email:              n.carandini@outlook.com
+description:        A developer blog
+description2:       Like a kid in a candyshop
+author:             Nicolò Carandini
+baseurl:            ""
+url:                ""
+
+# Social Profiles
+twitter_username:   TPCWare
+github_username:    ncarandini
+facebook_username:  nicolo.carandini
+linkedin_username:  ncarandini
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   G-4SSJPXVQHD # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
