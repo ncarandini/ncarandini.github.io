@@ -14,13 +14,13 @@ But I wan't to illustrate the steps I've done to use Foundation Icon fonts, a fr
 
 1. Create a folder named "foundation-icons" inside the css folde of your blazor project:
 
-   ![folder creation](/img/posts/1/001.png)
+   ![folder creation](/img/posts/P2/001.png)
 
 2. Download the font from the [Foundation Icon Fonts 3](https://zurb.com/playground/foundation-icon-fonts-3) page, clicking on the "Download the Font" button.
 
 3. Unzip the file and copy these files to the "foudation-icons" folder:
 
-   ![folder creation](/img/posts/1/002.png)
+   ![folder creation](/img/posts/P2/002.png)
 
 4. Add this style to the foundation-icons.css:
 
@@ -58,10 +58,10 @@ But I wan't to illustrate the steps I've done to use Foundation Icon fonts, a fr
 
 6. Now, whenever you like, you can use "foundation icons" and "open icons" in a similar manner:
 
-   ![folder creation](/img/posts/1/003.png)
+   ![folder creation](/img/posts/P2/003.png)
 
 ## Result
 
-![folder creation](/img/posts/1/004.png)
+![folder creation](/img/posts/P2/004.png)
 
 That's all folks!
