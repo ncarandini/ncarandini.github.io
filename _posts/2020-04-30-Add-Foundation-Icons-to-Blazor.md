@@ -3,7 +3,7 @@ layout: post
 title: "Add Foundation Icon Fonts to Blazor"
 subtitle: "Because we always need more icons..."
 date: 2020-04-30 15:00:00 +0200
-background: '/img/posts/1/background.jpg'
+background: '/img/posts/P2/background.jpg'
 ---
 
 Blazor template comes with Bootstrap 4 and OpenIcon icon font, but the number of available icons is less than minimal, so today I've searched for other icon fonts. I won't list them here, as you can easily do it by yourself.
