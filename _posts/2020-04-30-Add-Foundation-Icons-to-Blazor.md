@@ -12,7 +12,7 @@ But I wan't to illustrate the steps I've done to use Foundation Icon fonts, a fr
 
 ## Steps
 
-1. Create a folder named "foundation-icons" inside the css folde of your blazor project:
+1. Create a folder named "foundation-icons" inside the css folder of your blazor project:
 
    ![folder creation](/img/posts/P2/001.png)
 
