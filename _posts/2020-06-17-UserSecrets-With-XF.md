@@ -185,4 +185,6 @@ Then you can copy and use the `UserSecretsManager` class to read the secrets.jso
 
 In any case, using the UserSecrets you'll be sure that sensible data won't be inadvertently pushed to the GitHub repository anymore.
 
+I've made a public GitHub repository where you can find the [demo project](https://github.com/ncarandini/XFUserSecrets).
+
 That's all folks!
