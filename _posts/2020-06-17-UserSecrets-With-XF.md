@@ -172,7 +172,7 @@ namespace TPCWare.XFUserSecrets.Utils
 }
 ```
 
-Clearly this just a sample code, on a real app we'll have a mechanism where user secrets will be used to set/ovverride the configuration data on a debug configuration, and a CI/CD pipeline to inject the production configuration data on a release configuration.
+Clearly it's just a sample code, on a real app we'll have a mechanism where user secrets will be used to set/ovverride the configuration data on a debug configuration, and a CI/CD pipeline to inject the production configuration data on a release configuration.
 
 ## How to use UserSecrets in your Xamarin Forms app
 
